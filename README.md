@@ -2,6 +2,7 @@
 # Self_driving_car_behavioral_cloning
 
 This is a university project aimed at making the car in Udacity nanodegree simulator drive the left track from the simulator.
+The whole specification of the assignment for this project is in the "ML D2 2023.pdf" file (3rd exercise).
 To run this project you need the Udacity nanodegree simulator made in Unity. Then you need to run the model from the good_models folder. When in the root folder of the cloned project run the command 
 
 "python drive.py -m model/model-final.h5". 
