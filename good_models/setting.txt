@@ -1,0 +1,1 @@
+python model.py -d data -l 0.1 -n 20 -b 256
